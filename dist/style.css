@@ -1,0 +1,64 @@
+h1{
+  color: rgb();
+  font-size:50px;
+  text-align: center;
+  font-family: cursive;
+}
+body{
+  background-color: rgb(221, 235, 240);
+  font-family: serif;
+  font-size: 19px;
+  line-height: 1.5em;
+  text-align: justified;
+}
+#mapa{
+  position: relative;
+  top: 10px;
+  left: 270px;
+}
+#losroques{
+  position: relative;
+  top: 10px;
+  width:200px;
+  margin-right:12px;
+  margin-bottom:12px;
+  float:left;
+}
+#cayosombrero:{
+  position: relative;
+  top: 10px;
+  float: letf;
+}
+
+#vene{
+  background: rgb(75,111,160);
+  width:800px;
+  margin:20px;
+}
+#diversidad{
+  width:400px;
+  margin-right:12px;
+  margin-bottom:12px;
+  float:left;
+  position: relative;
+  top: 10px;
+}
+.vene{
+  font-family: cursive;
+  font-size:35px;
+}
+#container{
+  margin: 40px;
+  border: 2px solid rgb(75,111,160);
+  border-top: 10px solid rgb(75,111,160);
+}
+#infovenezuela{
+  background: rgb(136,162,192);
+  width:800px;
+  margin:20px; 
+}
+#costas{
+  background: rgb(77,115,162);
+  width:800px;
+  margin:20px;
+}
